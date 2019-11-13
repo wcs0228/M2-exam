@@ -15,7 +15,7 @@ import java.util.Scanner;
         {
             System.out.print("*");
         }
-        System.out.println("\t");
+        System.out.println();
 	}
 
     }
