@@ -47,7 +47,7 @@ public class M2Q7 {
             {
                 if(listen>=80||read>=80||speak>=80)
                 {
-                    System.out.println("p");
+                    System.out.println("m");
                 }
                 else
                 {
@@ -55,10 +55,10 @@ public class M2Q7 {
                 }
 
             }
-            else
-            {
-                System.out.println("F");
-            }
+            //else
+            //{
+              //  System.out.println("F");
+            //}
 
         }
 
