@@ -5,7 +5,7 @@ public class M2Q9 {
         Scanner scn = new Scanner(System.in);
         int a = scn.nextInt();
         int b = scn.nextInt();
-        int max=0;
+        int max=1;
         for(int i=a;i>1;i--)
         {
             if(a%i ==0&&b%i==0)
